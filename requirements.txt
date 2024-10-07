@@ -1,0 +1,4 @@
+###### Requirements without Version Specifiers ######
+
+pygame
+pillow==2.5.2
